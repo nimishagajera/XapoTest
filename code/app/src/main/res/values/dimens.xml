@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="image_max_height">50dp</dimen>
+    <dimen name="image_max_width">50dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+
+    <dimen name="image_final_width">32dp</dimen>
+</resources>

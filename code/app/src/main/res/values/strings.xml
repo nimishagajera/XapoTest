@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+
+    <string name="label_full_name">Full Name:</string>
+    <string name="label_github_link">Github Link:</string>
+    <string name="label_user_type">User Type:</string>
+    <string name="label_followers">Followers</string>
+    <string name="label_textview">TextView</string>
+    <string name="label_following">Following</string>
+    <string name="label_description">Description</string>
+    <string name="label_retry">retry</string>
+    <string name="label_list">Repository List</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
